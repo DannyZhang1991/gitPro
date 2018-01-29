@@ -1,0 +1,21 @@
+forpre data version1
+
+<<<<<<< HEAD
+7777777777777777777777777777777 origin
+=======
+
+*********
+
+MMMMMMMMMMMMMMMMMM
+
+i am data
+
+
+danny ==============================@@@@@@@@@@@
+
+
+
+&&&&&&&&&&
+
+Origin Origin Origin****************************
+>>>>>>> 78f0c066de85fdf3743247fb7059d2135fe77bc6
